@@ -1,15 +1,15 @@
-# Monify
+# Monify – Personal Expense Tracker
 
-Monify is a modern personal expense tracking application built with Flutter and Supabase.
+Monify is a mobile app designed to help users manage their personal expenses efficiently. With Monify, you can:  
+- Track daily, weekly, and monthly expenses  
+- Categorize costs and visualize top spending categories  
+- See analytics in interactive charts  
+- Attach quantities and amounts to each expense
 
-The app helps users track daily expenses, manage their balance, and gain insights into their spending habits through detailed analytics. It supports multiple currencies and securely stores data in the cloud, making it accessible across devices.
+## Tech Stack
+- **Flutter** for cross-platform mobile development (Android & iOS)  
+- **Supabase** for backend, authentication, and cloud storage  
+- **FL Chart** for interactive expense charts  
+- **Cached Network Image & SVG support** for efficient image rendering
 
-## Features
-- Expense tracking with categories
-- Daily, weekly, and monthly analytics
-- Multi-currency support (HUF, EUR, RSD)
-- Secure authentication and cloud data storage
-- Clean and intuitive user interface
-
-## Download
-The latest Android APK can be found in the **Releases** section.
+> **Note:** This repository currently contains the **Android APK** as a release for demo purposes. Source code is also included in the release zip for reference.
